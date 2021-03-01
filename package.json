@@ -1,7 +1,7 @@
 {
-  "name": "IKT-PWA-01",
+  "name": "IKT-PWA-02",
   "version": "1.0.0",
-  "description": "Grundgerüst einer PWA",
+  "description": "Grundgerüst einer PWA mit Web-App-Manifest",
   "main": "index.js",
   "scripts": {
     "start": "http-server -c-1"

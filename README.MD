@@ -50,4 +50,10 @@ Sie können natürlich auch ein anderes Bild als das HTW-Bild einbinden. Beachte
 
 Binden Sie ruhig Ihr eigenes `favicon.ico` in den Projektordner ein. Erstellen können Sie sich ein solches `favicon` z.B. [hier](https://favicon.io/) oder [hier](https://www.ionos.de/tools/favicon-generator). Macht Spaß und gibt allen Ihren Webanwendungen eine persönliche Note ;-).
 
+## Aktueller Stand
+
+- vor Caching
+- mit `sw.js`
+- `sw.js` wird in `app.js` registriert
+- 
  
